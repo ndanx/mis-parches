@@ -1,0 +1,51 @@
+{
+  "name": "Catálogo Oficial ndanx",
+  "subtitle": "Repositorio Cloud para Free Fire",
+  "patches": [
+    {
+      "id": "com.ndanx.holoarmasv2",
+      "name": "HOLO ARMAS v2",
+      "version": "1.0.0",
+      "size": "1.5 MB",
+      "target_bundle": "com.dts.freefireth",
+      "description": "Efecto holográfico avanzado para skins de armas versión 2.",
+      "download_url": "https://githubusercontent.com"
+    },
+    {
+      "id": "com.ndanx.disibodyv2",
+      "name": "DISI BODY V2 AVATAR",
+      "version": "1.0.0",
+      "size": "85 KB",
+      "target_bundle": "com.dts.freefireth",
+      "description": "Modificación y optimización de texturas corporales en el avatar.",
+      "download_url": "https://githubusercontent.com"
+    },
+    {
+      "id": "com.ndanx.hologramaarmas",
+      "name": "HOLOGRAMA ARMAS",
+      "version": "1.0.0",
+      "size": "1.2 MB",
+      "target_bundle": "com.dts.freefireth",
+      "description": "Efecto holográfico base adaptado para el paquete FFTH del juego.",
+      "download_url": "https://githubusercontent.com"
+    },
+    {
+      "id": "com.ndanx.cuellodisimulado",
+      "name": "CUELLO DISIMULADO V1",
+      "version": "1.0.0",
+      "size": "1.5 MB",
+      "target_bundle": "com.dts.freefireth",
+      "description": "Modificación visual de texturas estéticas para el personaje.",
+      "download_url": "https://githubusercontent.com"
+    },
+    {
+      "id": "com.ndanx.aimdecapitado",
+      "name": "AIM DECAPITADO V1",
+      "version": "1.0.0",
+      "size": "167 KB",
+      "target_bundle": "com.dts.freefireth",
+      "description": "Ajuste de asistencia y apuntado local para Free Fire.",
+      "download_url": "https://githubusercontent.com"
+    }
+  ]
+}
